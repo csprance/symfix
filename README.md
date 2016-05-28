@@ -8,7 +8,8 @@ fancy. Let me know if you run into any issues and if it works on other versions 
 * Restart modo
 
 ## How to use
-* `Click` the Sym Fix button with a group or individual instances selected to convert them to meshes and fix issues.
+Select the instances you want to convert to meshes and type the command `csp.symfix` it will convert instances to meshes.
+It does NOT preserve the original instances so keep that in mind.
 
 ## Video Guide
 Coming Soon......
